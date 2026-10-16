@@ -1,0 +1,9 @@
+.git
+documentos
+Bat*
+scripts
+*.md
+back-end/cache/*.json
+back-end/cache/.schema_verified
+back-end/logs/*.log
+back-end/includes/db.local.php
